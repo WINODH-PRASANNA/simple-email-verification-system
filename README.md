@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author:** Your Name
-- **Email:** your-email@example.com
-- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+- **Author:** Winodh PRASANNA
+- **Email:** winodh.prasanna.blog@gmail.com
+- **GitHub:** [WINODH-PRASANNA](https://github.com/WINODH-PRASANNA)
 
